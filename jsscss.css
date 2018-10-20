@@ -1,0 +1,92 @@
+body{
+	background-color:  #04042C;
+	}
+.main{
+	width: 86.2%;
+	display: flex;
+	
+	 border-width: 9px;
+   border-bottom-width:4px;
+   border-bottom-color:yellow;
+   border-bottom-style: solid;
+   margin-top: 3px;
+}
+
+.container-1{
+	
+	background-color: #ffffff;
+}
+
+.container-2{
+	background-color: #f2f2f2;
+}
+
+.text{
+	font-family: arial;
+	padding-top: 20px;
+}
+
+.form{
+	background: url("images/6.jpg");
+}
+
+.login{
+	width: 328px;
+    height: 269px;
+    background:url("images/7.png");
+}
+
+.class{
+	height: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.btn{
+	border: 0px;
+    width: 107px;
+    height: 31px;
+    background: url(images/8.png);
+}
+
+.Recruiters{
+	padding-top: 5px;
+}
+
+.comp{
+	display: flex;
+	justify-content: space-around;
+	width: 75%;
+	padding-bottom: 20px;
+}
+
+.footer{
+	background-color: #ffffff;
+	width: 86.2%;
+	border-width: 9px;
+   border-top-width:4px;
+   border-top-color:yellow;
+   border-top-style: solid;
+   margin-bottom: 20px;
+
+}
+
+.header{
+	display: flex;
+	margin-top: 20px;
+}
+
+.h1{
+	flex:4;
+}
+.h2{
+	flex: 1;
+}
+
+table tr {
+ 
+  padding-top: 0px;
+  margin-top: 0px;
+}
